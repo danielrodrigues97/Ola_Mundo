@@ -1,2 +1,2 @@
-# Ola_Mundo
+# Olá, Mundo
  Estudando Git com Gustavo Guanabara
